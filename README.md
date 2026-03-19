@@ -4,5 +4,4 @@
 <ul>
 <li>Yash Kumar Gupta</li>
 <li>Sachin</li>
-<li></li>
 </ul>
